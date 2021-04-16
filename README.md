@@ -1,2 +1,2 @@
-# social-network
-bootcamp challenge18
+# Social-Network-API
+
