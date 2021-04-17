@@ -1,7 +1,7 @@
 const { Thought, User } = require('../models');
 
 const thoughtController = {
-    // get all of the thoughts
+    // get all of the thoughts /api/thoughts
     getAllThoughts(req, res) {
         Thought.find({})
         .select('-__v')
@@ -50,7 +50,7 @@ const thoughtController = {
         .catch(err => res.json(err));
     },
 
-    // update thought
+    // update thought /api/thoughts/:id
     updateThought({ params, body }, res) {
         Thought.findOneAndUpdate({ _id: params.id}, body, { new: true, runValidators: true })
         .then(dbThoughtData => {
@@ -76,6 +76,7 @@ const thoughtController = {
         .catch(err => res.status(err));
     },
 
+    // /api/thoughts/:thoughtId/reactions
     addReaction({ params, body }, res) {
         Thought.findOneAndUpdate(
             { _id: params.id },
@@ -91,7 +92,7 @@ const thoughtController = {
         })
         .catch(err => res.json(err));
     },
-
+///api/thoughts/:thoughtId/reactions
     removeReaction({ params }, res) {
         Thought.findOneAndUpdate(
             { _id: params.id },
