@@ -13,6 +13,7 @@ This is an API created to test for an social network. The primary tools for this
 - [Credits](#credits)
 - [Tools Used](#tools-used)
 
+<hr />
 
 ### Installation
  To install this repo onto your machine you will need to do the following:
@@ -20,12 +21,17 @@ This is an API created to test for an social network. The primary tools for this
   * Install the Dependencies I'm using , which are located in the package.json file. Use 'npm i' to do this.
   * Once you've done both tasks above you should be able to run the api using the command 'npm start' in the Terminal.
 
+<hr />
+
 ### Usage
 Here's a link to a walkthrough video of my testing out the API: <a href="">Social-Network-API</a>
+
+<hr />
 
 ### Credits
 Made by <a href="https://www.linkedin.com/in/aaliyah-symlar-931213102">Aaliyah Symlar</a>
 
+<hr />
 
 ### Tools Used
 Here's a list of the tools that were used in this api:
