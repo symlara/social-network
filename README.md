@@ -1,7 +1,7 @@
 # Social-Network-API
 <hr />
 <a href="#"><img src="https://img.shields.io/badge/javascript-100%25-green.svg"/></a>
-
+<a href="#"><img src="https://img.shields.io/badge/license-MIT-blue"></a>
 
 ## Desription
 This is an API created to test for a social network API. The primary tools for this challenge involed Mongoose and Express. Keep in mind that this is a Terminal ran API and there is <strong>no</strong> front-end at the moment.
