@@ -26,6 +26,9 @@ This is an API created to test for a social network API. The primary tools for t
 ### Usage
 Here's a link to a walkthrough video of me testing out the API: <a href="https://youtu.be/3ZDHYBo8Ytg">Social-Network-API</a>
 
+<img width="1219" alt="Screen Shot 2021-04-18 at 6 38 56 PM" src="https://user-images.githubusercontent.com/40181569/115165824-602b4b80-a075-11eb-9216-2d750c1bd2e6.png">
+
+
 <hr />
 
 ### Credits
