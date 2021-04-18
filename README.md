@@ -24,7 +24,7 @@ This is an API created to test for an social network. The primary tools for this
 <hr />
 
 ### Usage
-Here's a link to a walkthrough video of my testing out the API: <a href="">Social-Network-API</a>
+Here's a link to a walkthrough video of me testing out the API: <a href="https://youtu.be/3ZDHYBo8Ytg">Social-Network-API</a>
 
 <hr />
 
