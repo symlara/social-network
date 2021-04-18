@@ -37,7 +37,7 @@ Made by <a href="https://www.linkedin.com/in/aaliyah-symlar-931213102">Aaliyah S
 <hr />
 
 ### Tools Used
-Here's a list of the tools that were used in this api:
+Here's a list of the tools that were used to build this API:
 * <a href="https://mongoosejs.com" target="_blank">Mongoose</a>
 * <a href="https://expressjs.com">Express</a>
 * <a href="https://insomnia.rest">Insomnia</a>
